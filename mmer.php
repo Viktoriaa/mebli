@@ -19,7 +19,7 @@ list($mebly,$tzvet,kilkist)=stroka;
 echo "<TR><td>$mebly</td><TR> <td>$tzvet</td> <TR><td>$kilkist</td></TR>";
 //echo "";
 //echo "<TR><td>$kilkist</td></TR>";
-
+echo "<td>\n";
 }fclose($fp);}
 </body>
 </html>
