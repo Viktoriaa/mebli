@@ -1,4 +1,3 @@
-
 <?php
 $mebly=$_REQUEST['mebly'];
 echo "mebly=$mebly <br>";
