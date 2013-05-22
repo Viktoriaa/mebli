@@ -16,10 +16,9 @@ if(fp){while(!feof($fp))
 stroka=fscanf($fp,"%s\t%s\t%s\d");
 list($mebly,$tzvet,kilkist)=stroka;
 //$kilkist=$fscanf($fp,"%d\t");
-echo "<TR><td>$mebly</td><TR> <td>$tzvet</td> <TR><td>$kilkist</td></TR>";
+echo "<TR><td>$mebly</td> <td>$tzvet</td> ><td>$kilkist</td></TR>";
 //echo "";
 //echo "<TR><td>$kilkist</td></TR>";
-echo "<td>\n";
 }fclose($fp);}
 </body>
 </html>
