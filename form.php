@@ -1,5 +1,6 @@
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+header('Content-type: text/html; charset=utf-8');
 <head>
 <title> Меблі!!!! </title>
 <script language="JavaScript">
